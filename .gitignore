@@ -1,0 +1,11 @@
+**/*.suo
+**/obj/**
+**/*.obj
+Debug/**
+Release/**
+_UpgradeReport_Files/*.*
+**/*.lib
+*.aps
+*.opensdf
+*.user
+*.sdf
